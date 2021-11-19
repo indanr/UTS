@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>UTS Indan</title>
+    <title>UTS Indan Pemograman Internet</title>
 </head>
 <body>
     <form method="post" >
